@@ -1,0 +1,54 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    color: rgb(156, 45, 230);
+}
+
+#developer-title {
+    color: rgb(142, 214, 49)
+}
+
+.portfolio-project {
+    color: indianred;
+}
+
+.projects {
+    text-align: center;
+    margin: 5px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.personal-title {
+    padding: 10px;
+    text-align: right;
+}
+
+footer {
+    background-color: lavender;
+}
+
+footer ul {
+    list-style: none;
+    text-align: center;
+}
+
+footer ul li {
+    display: inline;
+    text-align: center;
+}
+
+.col-4 {
+    width: 33.33%
+}
